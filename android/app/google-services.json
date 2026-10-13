@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "728081228569",
+    "project_id": "shahzada-814f0",
+    "storage_bucket": "shahzada-814f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728081228569:android:4ffe3e26dea77205639b88",
+        "android_client_info": {
+          "package_name": "com.example.darsenizami"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZwzAma6gBaheuEm6CYINAecBjJCIVCPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
