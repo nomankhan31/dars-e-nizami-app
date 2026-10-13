@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # darsenizami
 
 A new Flutter project.
@@ -15,4 +16,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+"# jamia-shahzada" 
+=======
+# dars-e-nizami-app
+>>>>>>> ff41167e62042f42755a8e7ba6a8a276d96ed5fd
 "# jamia-shahzada" 
